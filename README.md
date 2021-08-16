@@ -12,4 +12,4 @@ I'm a young and passionate Web Developer too busy learning everything there is.
 - [Javascript Synchronous and Asynchronous Code](https://konstapascal.dev/blog/javascript-synchronous-and-asynchronous-code)
 - [Object and Array Destructuring in Javascript](https://konstapascal.dev/blog/object-and-array-destructuring-in-javascript)
 
-[See All Blog Posts](https://konstapascal.dev/blog)
+#### [Blog](https://konstapascal.dev/blog)
