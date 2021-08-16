@@ -6,3 +6,8 @@ I'm a young and passionate Web Developer too busy learning everything there is.
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/konstapascal)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/konstapascal)
+
+### Latest Blog Posts
+
+- [Javascript Synchronous and Asynchronous Code](https://konstapascal.dev/blog/javascript-synchronous-and-asynchronous-code)
+- [Object and Array Destructuring in Javascript](https://konstapascal.dev/blog/object-and-array-destructuring-in-javascript)
