@@ -11,5 +11,6 @@ I'm a young and passionate web developer too busy learning everything there is.
 
 ### Latest Blog Posts
 
+- [Javascript Promises Introduction](https://konstapascal.dev/blog/javascript-promises-introduction)
 - [Javascript Synchronous and Asynchronous Code](https://konstapascal.dev/blog/javascript-synchronous-and-asynchronous-code)
 - [Object and Array Destructuring in Javascript](https://konstapascal.dev/blog/object-and-array-destructuring-in-javascript)
