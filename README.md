@@ -1,6 +1,6 @@
 # Hi! 👋 I'm [Konstantinos Pascal](https://konstapascal.dev) 💻
 
-I'm a young and passionate web developer too busy learning everything there is.
+I'm a young and passionate web developer too busy learning everything there is. Currently focused on C# and .NET!
 
 ### Let's Connect 🔗
 
